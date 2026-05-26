@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(curl -s wttr.in/?lang=zh)",
+      "Bash(curl -s 'wttr.in/?lang=zh')",
+      "Bash(curl -s 'wttr.in/成都?lang=zh')",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
+    ]
+  }
+}
